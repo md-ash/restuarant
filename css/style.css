@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 100%;
+    min-height:60vh;
+    background:url(../image/76706804_1028577567483902_2892053315804200960_n.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.nav {
+    width: 100%;
+    min-height: 50px;
+    background: black;
+    
+}
+.nav ul{
+    display: flex;
+    float: right;
+}
+.nav a{
+    text-decoration: none;
+    
+}
+.nav li {
+    list-style: none;
+}
+.nav ul li a{
+    color: white;
+    margin: 0px 10px;
+    line-height: 50px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+.nav ul li a:hover{
+    background: red;
+}
+.nav ul li.active{
+    background: red;
+}
+.pricelist {
+    width: 100%;
+    min-height: 50px;
+    text-align-last: left;
+}
+.pricelist h1{
+    width: 26%;
+    min-height: 25px;
+    margin: 2px 10px;
+    background: red;
+    border-radius: 5px;
+    margin-top: 7px;
+   }
+.pricelist h1{
+    color: white;
+}
+.pricelist ul li{
+    list-style: none;
+}
+.pricelist a{
+    text-decoration: none;
+}
+.pricelist ul li a{
+    color: black;
+    margin: 2px 10px;
+    line-height: 25px;
+    text-align: left
+    display: inline-block;
+    margin-right: 25px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.contactus ul li a{
+    color: black;
+    margin: 0 px 10px;
+    line-height: 25px;
+    text-align: left
+    display: inline-block;
+    margin-right: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    list-style: none;
+    text-decoration: none;
+}
+.regular{
+   width: 100%;
+   min-height: 50px;
+   text-align-last: left; 
+    margin: 2px 10px;                                                                                                                                                                                      
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
